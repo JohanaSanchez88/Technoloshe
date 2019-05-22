@@ -1,0 +1,10 @@
+C:\Repositorio\Technoloshe\TechonolosShe\TechonolosShe\bin\Debug\TechonolosShe.exe.config
+C:\Repositorio\Technoloshe\TechonolosShe\TechonolosShe\bin\Debug\TechonolosShe.exe
+C:\Repositorio\Technoloshe\TechonolosShe\TechonolosShe\bin\Debug\TechonolosShe.pdb
+C:\Repositorio\Technoloshe\TechonolosShe\TechonolosShe\obj\Debug\TechonolosShe.csprojAssemblyReference.cache
+C:\Repositorio\Technoloshe\TechonolosShe\TechonolosShe\obj\Debug\TechonolosShe.Form1.resources
+C:\Repositorio\Technoloshe\TechonolosShe\TechonolosShe\obj\Debug\TechonolosShe.Properties.Resources.resources
+C:\Repositorio\Technoloshe\TechonolosShe\TechonolosShe\obj\Debug\TechonolosShe.csproj.GenerateResource.cache
+C:\Repositorio\Technoloshe\TechonolosShe\TechonolosShe\obj\Debug\TechonolosShe.csproj.CoreCompileInputs.cache
+C:\Repositorio\Technoloshe\TechonolosShe\TechonolosShe\obj\Debug\TechonolosShe.exe
+C:\Repositorio\Technoloshe\TechonolosShe\TechonolosShe\obj\Debug\TechonolosShe.pdb
