@@ -18,12 +18,15 @@ namespace TechonolosShe
             InitializeComponent();
         }
 
-        private void Button1_Click(object sender, EventArgs e)
+        private async void Button1_Click(object sender, EventArgs e)
         {
             Class1 clase = new Class1();
-            
-            long c = clase.metodo();
 
+            await Task.Run(() =>
+            {
+                long c = clase.metodo();
+            });
+            
             label1.Text = c.ToString();
 
         }
